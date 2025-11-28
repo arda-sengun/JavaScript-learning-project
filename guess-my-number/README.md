@@ -34,8 +34,6 @@ Bu projeyi bilgisayarınızda çalıştırmak için şu adımları izleyebilirsi
    ```bash
    git clone [https://github.com/arda-sengun/JavaScript-learning-project.git](https://github.com/arda-sengun/JavaScript-learning-project.git)
 
-
-   -Oyunu Başlatın: index.html dosyasına çift tıklayarak tarayıcınızda açın.
    ```
 
 2. **Klasöre Gidin:**
