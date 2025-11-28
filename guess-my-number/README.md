@@ -31,7 +31,6 @@ Bu projeyi bilgisayarınızda çalıştırmak için şu adımları izleyebilirsi
 
 - cd JavaScript-learning-project/guess-my-number
 - Oyunu Başlatın: index.html dosyasına çift tıklayarak tarayıcınızda açın.
--
 
 1. **Projeyi klonlayın:**
    ```bash
