@@ -33,7 +33,7 @@ Bu projeyi bilgisayarınızda çalıştırmak için şu adımları izleyebilirsi
 
    ```bash
    git clone [https://github.com/arda-sengun/JavaScript-learning-project.git](https://github.com/arda-sengun/JavaScript-learning-project.git)
-   ```
 
    -cd JavaScript-learning-project/guess-my-number
    -Oyunu Başlatın: index.html dosyasına çift tıklayarak tarayıcınızda açın.
+   ```
