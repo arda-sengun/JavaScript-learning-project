@@ -18,7 +18,7 @@ Aşağıda bu repository içinde yer alan projelerin listesi ve kısa açıklama
 | Proje İsmi | Açıklama | Öğrenilen Kavramlar | Durum |
 | :--- | :--- | :--- | :---: |
 | [**Guess My Number**](./guess-my-number) | Sayı tahmin oyunu. | DOM Manipülasyonu, CSS Stilleri, Event Handling | ✅ Tamamlandı |
-| [**Modal Window**](./modal-window) | Açılır pencere (Popup) yapımı. | Class manipülasyonu, Klavye olayları (ESC) | 🔜 Yakında |
+| [**Modal Window**](./modal-window) | Açılır pencere (Popup) yapımı. | Class manipülasyonu, Klavye olayları (ESC) | ✅ Tamamlandı |
 | **Pig Game** | İki kişilik zar oyunu. | State (Durum) yönetimi, Oyun döngüsü | 🔜 Yakında |
 
 *(Yeni projeler yaptıkça bu listeyi güncelleyeceğim.)*
