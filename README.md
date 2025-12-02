@@ -41,4 +41,4 @@ Bu süreçte odaklandığım temel konular:
 Tüm projeleri bilgisayarınıza indirmek için:
 
 ```bash
-git clone [https://github.com/arda-sengun/JavaScript-learning-project.git](https://github.com/arda-sengun/JavaScript-learning-project.git)
+git clone https://github.com/arda-sengun/JavaScript-learning-project.git(https://github.com/arda-sengun/JavaScript-learning-project.git)
