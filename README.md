@@ -37,9 +37,9 @@ Bu süreçte odaklandığım temel konular:
 - **Temiz Kod:** DRY (Don't Repeat Yourself) prensibi ve fonksiyonel programlama.
 
 
+```markdown
 ## 💻 Kurulum
 
 Tüm projeleri bilgisayarınıza indirmek için:
 
-```console
 git clone [https://github.com/arda-sengun/JavaScript-learning-project.git](https://github.com/arda-sengun/JavaScript-learning-project.git)
