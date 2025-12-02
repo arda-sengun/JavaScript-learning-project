@@ -36,9 +36,10 @@ Bu süreçte odaklandığım temel konular:
 - **Modern JavaScript (ES6+):** Arrow functions, Destructuring, Spread/Rest operatörleri.
 - **Temiz Kod:** DRY (Don't Repeat Yourself) prensibi ve fonksiyonel programlama.
 
+
 ## 💻 Kurulum
 
 Tüm projeleri bilgisayarınıza indirmek için:
 
-```shell
-git clone https://github.com/arda-sengun/JavaScript-learning-project.git
+```console
+git clone [https://github.com/arda-sengun/JavaScript-learning-project.git](https://github.com/arda-sengun/JavaScript-learning-project.git)
