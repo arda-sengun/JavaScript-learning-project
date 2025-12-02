@@ -37,7 +37,6 @@ Bu süreçte odaklandığım temel konular:
 - **Temiz Kod:** DRY (Don't Repeat Yourself) prensibi ve fonksiyonel programlama.
 
 
-```markdown
 ## 💻 Kurulum
 
 Tüm projeleri bilgisayarınıza indirmek için:
