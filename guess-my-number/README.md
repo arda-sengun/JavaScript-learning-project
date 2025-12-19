@@ -47,3 +47,8 @@ Bu projeyi bilgisayarınızda çalıştırmak için şu adımları izleyebilirsi
 ```bash
 index.html dosyasına çift tıklayarak tarayıcınızda açın.
 ```
+
+## 🎓 Emeği Geçenler
+
+Bu proje, **Jonas Schmedtmann** tarafından hazırlanan **The Complete JavaScript Course** eğitiminin bir parçası olarak geliştirilmiştir.
+Eğitim amacıyla [Arda Şengün](https://github.com/arda-sengun) tarafından kodlanmıştır.

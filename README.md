@@ -15,11 +15,15 @@ Takip ettiğim eğitim serisi ve dökümantasyonlar doğrultusunda, basitten kar
 
 Aşağıda bu repository içinde yer alan projelerin listesi ve kısa açıklamaları bulunmaktadır. İlgili klasöre giderek detaylı kodları inceleyebilirsiniz.
 
-| Proje İsmi | Açıklama | Öğrenilen Kavramlar | Durum |
-| :--- | :--- | :--- | :---: |
-| [**Guess My Number**](./guess-my-number) | Sayı tahmin oyunu. | DOM Manipülasyonu, CSS Stilleri, Event Handling | ✅ Tamamlandı |
-| **Modal Window** | Açılır pencere (Popup) yapımı. | Class manipülasyonu, Klavye olayları (ESC) | 🔜 Yakında |
-| **Pig Game** | İki kişilik zar oyunu. | State (Durum) yönetimi, Oyun döngüsü | 🔜 Yakında |
+## 📂 Proje Listesi
+
+Aşağıda bu repository içinde yer alan projelerin listesi ve kısa açıklamaları bulunmaktadır. İlgili klasöre giderek detaylı kodları inceleyebilirsiniz.
+
+| Proje İsmi | Canlı Demo (Oyna) 🎮 | Kaynak Kodlar 💻 | Durum |
+| :--- | :--- | :--- | :--- |
+| Guess My Number | [Oyna](https://arda-sengun.github.io/JavaScript-learning-project/guess-my-number/) | [İncele](https://github.com/arda-sengun/JavaScript-learning-project/tree/main/guess-my-number) | ✅ Tamamlandı |
+| Modal Window | [Oyna](https://arda-sengun.github.io/JavaScript-learning-project/modal-window/) | [İncele](https://github.com/arda-sengun/JavaScript-learning-project/tree/main/modal-window) | ✅ Tamamlandı |
+| Pig Game | [Yakında]() | [Yakında]() | 🔜 Yakında |
 
 *(Yeni projeler yaptıkça bu listeyi güncelleyeceğim.)*
 
@@ -32,9 +36,9 @@ Bu süreçte odaklandığım temel konular:
 - **Modern JavaScript (ES6+):** Arrow functions, Destructuring, Spread/Rest operatörleri.
 - **Temiz Kod:** DRY (Don't Repeat Yourself) prensibi ve fonksiyonel programlama.
 
+
 ## 💻 Kurulum
 
 Tüm projeleri bilgisayarınıza indirmek için:
 
-```bash
 git clone [https://github.com/arda-sengun/JavaScript-learning-project.git](https://github.com/arda-sengun/JavaScript-learning-project.git)
