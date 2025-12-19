@@ -15,10 +15,6 @@ Takip ettiğim eğitim serisi ve dökümantasyonlar doğrultusunda, basitten kar
 
 Aşağıda bu repository içinde yer alan projelerin listesi ve kısa açıklamaları bulunmaktadır. İlgili klasöre giderek detaylı kodları inceleyebilirsiniz.
 
-## 📂 Proje Listesi
-
-Aşağıda bu repository içinde yer alan projelerin listesi ve kısa açıklamaları bulunmaktadır. İlgili klasöre giderek detaylı kodları inceleyebilirsiniz.
-
 | Proje İsmi | Canlı Demo (Oyna) 🎮 | Kaynak Kodlar 💻 | Durum |
 | :--- | :--- | :--- | :--- |
 | Guess My Number | [Oyna](https://arda-sengun.github.io/JavaScript-learning-project/guess-my-number/) | [İncele](https://github.com/arda-sengun/JavaScript-learning-project/tree/main/guess-my-number) | ✅ Tamamlandı |
