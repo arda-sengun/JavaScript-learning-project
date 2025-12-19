@@ -29,7 +29,7 @@ Bu projeyi bilgisayarınızda çalıştırmak için şu adımları izleyebilirsi
 1. **Projeyi klonlayın:**
 
    ```bash
-   git clone [https://github.com/arda-sengun/JavaScript-learning-project.git](https://github.com/arda-sengun/JavaScript-learning-project.git)
+   git clone https://github.com/arda-sengun/JavaScript-learning-project.git
    ```
 
 2. **Klasöre Gidin:**
