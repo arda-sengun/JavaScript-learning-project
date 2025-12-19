@@ -23,7 +23,7 @@ Aşağıda bu repository içinde yer alan projelerin listesi ve kısa açıklama
 | :--- | :--- | :--- | :--- |
 | Guess My Number | [Oyna](https://arda-sengun.github.io/JavaScript-learning-project/guess-my-number/) | [İncele](https://github.com/arda-sengun/JavaScript-learning-project/tree/main/guess-my-number) | ✅ Tamamlandı |
 | Modal Window | [Oyna](https://arda-sengun.github.io/JavaScript-learning-project/modal-window/) | [İncele](https://github.com/arda-sengun/JavaScript-learning-project/tree/main/modal-window) | ✅ Tamamlandı |
-| Pig Game | [Yakında]() | [Yakında]() | 🔜 Yakında |
+| Pig Game | [Oyna](https://arda-sengun.github.io/JavaScript-learning-project/pig-game) | [İncele](https://github.com/arda-sengun/JavaScript-learning-project/tree/main/pig-game) | ✅ Tamamlandı |
 
 *(Yeni projeler yaptıkça bu listeyi güncelleyeceğim.)*
 
